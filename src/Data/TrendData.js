@@ -8,7 +8,7 @@ export const TrendData= [
       shares: 80.5,
     },
     {
-      name: "Zainkeepscode",
+      name: "TLE Eliminators",
       shares: 75.5,
     },
     {
