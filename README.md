@@ -1,4 +1,4 @@
-# Social-Media-Application
+# Swipe-Social-Media-Application
 
 •	Build using React,Node js, Express js and MongoDB 
 •	Provides features to search, post photos,edit profile,follow 
